@@ -54,3 +54,5 @@ func newFunc(closure: (Double,Double) -> Double) {
 }
 newFunc {(weight: Double, distance: Double) in return weight + distance }
 
+print("piu-piu")
+
